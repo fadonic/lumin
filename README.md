@@ -1,5 +1,5 @@
 # Little comments
-Sorry I could not make much comments on this project do to time constraints.
+Sorry I could not comments must of my source code do to time constraints.
 
 # Getting Started with Create React App
 
@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm init` then
+### `npm init` follow by
 
 ### `npm start`
 
