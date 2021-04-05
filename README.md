@@ -1,5 +1,5 @@
 # Little comments
-Sorry I could not comments must of my source code do to time constraints.
+Sorry I could'nt comments most of my source code do to time constraints.
 
 # Getting Started with Create React App
 
